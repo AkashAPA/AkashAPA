@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://akash-portfoli-o.netlify.app/](https://akash-portfoli-o.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akashpatil.vercel.app](https://akashpatil.vercel.app/)
 
 - 📫 How to reach me **patilakashaap@gmail.com**
 
