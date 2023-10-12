@@ -2,7 +2,7 @@
 
 <!-- Profile banner -->
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://akashpatil.vercel.app/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHNzf3aFpgs8w/profile-displaybackgroundimage-shrink_350_1400/0/1687761036522?e=1702512000&v=beta&t=2saePNRreNYaiahBS6CmHo2eKaNsbKpDRXwPUniYyf4)](https://akashpatil.vercel.app/)
 
 
 
@@ -75,12 +75,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkashAPA/AkashAPA/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akashapa/akashapa/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
 
-<!-- ## 💰 You can help me by Donating 💰
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darshan18) -->
 
 </div>
