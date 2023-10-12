@@ -4,9 +4,6 @@
 
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHNzf3aFpgs8w/profile-displaybackgroundimage-shrink_350_1400/0/1687761036522?e=1702512000&v=beta&t=2saePNRreNYaiahBS6CmHo2eKaNsbKpDRXwPUniYyf4)](https://akashpatil.vercel.app/)
 
-
-
-<!-- <h4 align="center">A Passionate About Full Stack Web Developement⚡</h4> -->
 <!-- Portfolio -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://akashpatil.vercel.app/) <br>
@@ -18,8 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Akash;Software+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
 </h3>
 
-<!-- gif image -->
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/darshangaikwad4114/darshangaikwad4114/blob/main/Code.gif"> -->
 
 <!-- About Me -->
 
@@ -47,10 +42,6 @@
 <a href="https://www.youtube.com/channel/UC_c9cWU_1a0qpxNSbfi_78A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@patilakashap1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_a_k_a_s_h.______/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_k_a_s_h.______" height="30" width="40" /></a>
 
-
-
-
-<!-- <h2 align="center">⚡This week I spent my time on⚡</h2> -->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
