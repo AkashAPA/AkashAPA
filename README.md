@@ -2,10 +2,6 @@
 
 <!-- Profile banner -->
 
-[![MasterHead](https://raw.githubusercontent.com/akashapa/assets/main/frontend-dev-banner.png)](https://akashpatil.vercel.app/)
-
-
-
 
 <!-- Portfolio -->
 
