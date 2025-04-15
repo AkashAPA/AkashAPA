@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile banner -->
-[![MasterHead](https://images.unsplash.com/photo-1581276879432-15a76e80b055?fit=crop&w=1400&q=80)](https://akashpatil.vercel.app/)
+[![MasterHead](https://drive.google.com/file/d/16hNOMnG7z_kcbXApItZa7rrycoAgRufg/view?usp=drive_link)](https://akashpatil.vercel.app/)
 
 
 <!-- Portfolio -->
