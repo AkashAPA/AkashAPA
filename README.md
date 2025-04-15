@@ -2,7 +2,8 @@
 
 <!-- Profile banner -->
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGPn_iCL4o1tQ/profile-displaybackgroundimage-shrink_350_1400/0/1719350945928?e=1750291200&v=beta&t=jrt5qLzI-xFM3Ki4yqSntNXHjgE_tpdvIhbCyBoEjAE)](https://akashpatil.vercel.app/)
+[![MasterHead](https://drive.google.com/uc?export=view&id=16hNOMnG7z_kcbXApItZa7rrycoAgRufg)](https://akashpatil.vercel.app/)
+
 
 
 <!-- Portfolio -->
