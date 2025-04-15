@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- Profile banner -->
-[![MasterHead](https://drive.google.com/file/d/16hNOMnG7z_kcbXApItZa7rrycoAgRufg/view?usp=drive_link)](https://akashpatil.vercel.app/)
-
 
 <!-- Portfolio -->
 
