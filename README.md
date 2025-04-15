@@ -2,7 +2,7 @@
 
 <!-- Profile banner -->
 
-[![MasterHead](https://drive.google.com/uc?export=view&id=16hNOMnG7z_kcbXApItZa7rrycoAgRufg)](https://akashpatil.vercel.app/)
+[![MasterHead]([https://drive.google.com/uc?export=view&id=16hNOMnG7z_kcbXApItZa7rrycoAgRufg](https://drive.google.com/file/d/16hNOMnG7z_kcbXApItZa7rrycoAgRufg/view?usp=drive_link))](https://akashpatil.vercel.app/)
 
 
 
